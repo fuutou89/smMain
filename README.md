@@ -1,0 +1,3 @@
+# smMain
+
+This is smMain
