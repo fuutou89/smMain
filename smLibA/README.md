@@ -1,3 +1,0 @@
-# smLibA
-
-This is smLibA
